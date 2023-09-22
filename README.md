@@ -1,7 +1,5 @@
 ![Next.js blogging template for Netlify](https://public-files.gumroad.com/aey5o62mbf0y8h6ubt886fxi781l)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c6f44d34-0570-4ca0-9d3d-cabdaa2b3afb/deploy-status)](https://app.netlify.com/sites/nextjs-netlify-blog-template/deploys)
-[![MADE BY Next.js](https://img.shields.io/badge/MADE%20BY%20Next.js-000000.svg?style=flat&logo=Next.js&labelColor=000)](https://nextjs.org/)
 
 Next.js blogging template for Netlify is a boilerplate for building blogs with only Netlify stacks.
 
